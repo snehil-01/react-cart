@@ -1,0 +1,19 @@
+delete all the files in src
+then src m index.js banao
+apan poora app public floder m jo index.html h udhar load karte h
+uss div ki id h root
+apan index.js ko render krte h render function react-dom provide krti h
+apan App.js ek root component h or baaki jitne bhi components banaege woh iske child components honge
+
+ component kse banae:
+    file ka naam ka pehla akshar capital hona chaiye
+    fir uske andar rafce type karo
+    yeh function jsx return karta h 
+    or poora jsx ka code ek parent element m wrap hona chiye
+
+react router dom 5.3.3 wala install karna and browserRouter se index.js m app ko wrap kr lena
+fir app m route karke kaam krna
+
+tailwind css ka cdn index.html m paste kia
+ class ki jagah className use krte h 
+ 
